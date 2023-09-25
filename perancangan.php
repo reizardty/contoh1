@@ -16,7 +16,7 @@ $dob=$_POST['dob'];
 $gender=$_POST['gender'];
 $edu=$_POST['edu'];
 ?>
-    <td>Nama</td><td><?php echo $name; ?></td>
+    <td>Name</td><td><?php echo $name; ?></td>
 </tr>
     <td>Alamat</td><td><?php echo $addr; ?></td>
 </tr>
